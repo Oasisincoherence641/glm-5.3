@@ -1,0 +1,32 @@
+# GLM-5.3 Desktop Auditor
+
+> The official desktop client for Z.AI's GLM-5.3 model, featuring 100% free and unmetered API access through October 2026. Designed for massive 1M-token codebase ingestion and automated cybersecurity auditing, leveraging GLM-5.3's world-record RL post-training capabilities.
+
+## Model Technical Specifications
+- **Architecture:** GLM-5.3 (743B MoE) by Z.AI (Zhipu)
+- **Training Paradigm:** Aggressive asynchronous Reinforcement Learning (RL) via the "Slime" framework.
+- **Context Window:** 1,000,000 Tokens (Input) / 128,000 Tokens (Output).
+- **Benchmark Performance:** 84.5% on CyberGym (beating Claude Mythos 5 and GPT-5.6 Sol).
+- **Vulnerability Discovery:** Identified 2,436 vulnerabilities (1097 Critical/High) in 269 real-world open-source projects.
+
+## Desktop Client Features
+- **Pricing:** 100% Free unmetered API access until October 2026 (Launch Partnership).
+- **Local AST Packing:** Automatically strips binaries and formats massive local repositories into optimal 1M-token prompts.
+- **Exploit Chaining:** Synthesizes multi-stage exploitation chains based on RL-tuned offensive security logic.
+- **Automated Patch Generation:** Provides one-click `git diff` patches for discovered vulnerabilities.
+- **Local-Weights Ready:** Client is pre-architected to support GGUF/MLX execution offline as soon as open weights drop in 14 days.
+
+## Privacy & Security Guarantees
+- **Data Retention:** Zero data retention on the Z.AI endpoint; strictly ephemeral RAM processing.
+- **Client Telemetry:** Zero telemetry in the open-source desktop wrapper.
+- **Storage:** AES-256 encrypted local workspace for all audit logs and generated patches.
+
+## Distribution
+- **Windows:** Signed GLM-5.3-Auditor-Setup.exe
+- **macOS:** Notarized Universal Binary (Apple Silicon/Intel) GLM-5.3-Auditor.dmg
+- **Installation:** GUI installers only, zero external scripting dependencies.
+
+## Target Audience
+- Security Researchers and Penetration Testers.
+- DevSecOps engineers requiring deep codebase audits.
+- Enterprise development teams looking for a free, more capable alternative to SonarQube and closed API LLMs.
