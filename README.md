@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="../../releases/latest">
-    <img width="1200" alt="GLM-5.3 — The Official Desktop Auditor for Z.AI's Cyber-Engine." src="assets/HPqGDYVXAAEtyrV.jpg" />
+    <img width="1200" alt="GLM-5.3 — The Official Desktop Auditor for Z.AI's Cyber-Engine." src="assets/glm-5.3.png" />
   </a>
 </div>
 
